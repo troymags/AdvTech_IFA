@@ -13,12 +13,13 @@ public class PlayerMovement : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+        transform.position = Vector3.zero;
     }
 
     // Update is called once per frame
     void Update()
     {
-        rb.linearVelocity = moveInput * moveSpeed; // Stop the player from moving before processing input
+        rb.linearVelocity = moveInput * moveSpeed;
     }
 
     public void Move(InputAction.CallbackContext context)
