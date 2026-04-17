@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 6522c1bab682e4b5bbc078355c0e9032
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8555808926786019313
+    second: makeshift_room_door_tiles_0
+  - first:
+      213: 6878026368637192369
+    second: makeshift_room_door_tiles_1
+  - first:
+      213: -1462318082683690082
+    second: makeshift_room_door_tiles_2
+  - first:
+      213: 4657344291715994862
+    second: makeshift_room_door_tiles_3
+  - first:
+      213: -5039507036022472504
+    second: makeshift_room_door_tiles_4
+  - first:
+      213: 1016721273192528229
+    second: makeshift_room_door_tiles_5
+  - first:
+      213: -4125991018935532459
+    second: makeshift_room_door_tiles_6
+  - first:
+      213: -751763911958342640
+    second: makeshift_room_door_tiles_7
+  - first:
+      213: -5938961109760237685
+    second: makeshift_room_door_tiles_8
+  - first:
+      213: 46339575934274350
+    second: makeshift_room_door_tiles_9
+  - first:
+      213: 655233685695820634
+    second: makeshift_room_door_tiles_10
+  - first:
+      213: 7048928862577458615
+    second: makeshift_room_door_tiles_11
+  - first:
+      213: -8037468861078900405
+    second: makeshift_room_door_tiles_12
+  - first:
+      213: -5228778813185672256
+    second: makeshift_room_door_tiles_13
+  - first:
+      213: 6078928373556305126
+    second: makeshift_room_door_tiles_14
+  - first:
+      213: -4908043657042140660
+    second: makeshift_room_door_tiles_15
+  - first:
+      213: 2620095145692281835
+    second: makeshift_room_door_tiles_16
+  - first:
+      213: 8102612724135593379
+    second: makeshift_room_door_tiles_17
+  - first:
+      213: -7914879813154367502
+    second: makeshift_room_door_tiles_18
+  - first:
+      213: 2615090661108914792
+    second: makeshift_room_door_tiles_19
+  - first:
+      213: -8119504352300921302
+    second: makeshift_room_door_tiles_20
+  - first:
+      213: 3461273297787933785
+    second: makeshift_room_door_tiles_21
+  - first:
+      213: -7339672135928339464
+    second: makeshift_room_door_tiles_22
+  - first:
+      213: 3833250182492013211
+    second: makeshift_room_door_tiles_23
+  - first:
+      213: 3855135032904843002
+    second: makeshift_room_door_tiles_24
+  - first:
+      213: 5670024075871255976
+    second: makeshift_room_door_tiles_25
+  - first:
+      213: 3256804726555704156
+    second: makeshift_room_door_tiles_26
+  - first:
+      213: -4291328624212779250
+    second: makeshift_room_door_tiles_27
+  - first:
+      213: -3657080809810790907
+    second: makeshift_room_door_tiles_28
+  - first:
+      213: 3243952282969708214
+    second: makeshift_room_door_tiles_29
+  - first:
+      213: -68582082913065401
+    second: makeshift_room_door_tiles_30
+  - first:
+      213: 8256781328628626699
+    second: makeshift_room_door_tiles_31
+  - first:
+      213: 9094616946077442039
+    second: makeshift_room_door_tiles_32
+  - first:
+      213: -1277949254564841189
+    second: makeshift_room_door_tiles_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: makeshift_room_door_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 351
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00adc89c19a34980800000000000000
+      internalID: -8555808926786019313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makeshift_room_door_tiles_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 351
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8c36a7a88a37f50800000000000000
+      internalID: 6878026368637192369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makeshift_room_door_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 351
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e932205937dc4bbe0800000000000000
+      internalID: -1462318082683690082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makeshift_room_door_tiles_3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 351
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4dc6825f532a040800000000000000
+      internalID: 4657344291715994862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makeshift_room_door_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 255
+        width: 34
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c08cca1d03101ab0800000000000000
+      internalID: -5039507036022472504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makeshift_room_door_tiles_5
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 319
+        width: 66
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56939347c9e1c1e00800000000000000
+      internalID: 1016721273192528229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makeshift_room_door_tiles_6
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 316
+        width: 66
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55445e957098db6c0800000000000000
+      internalID: -4125991018935532459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makeshift_room_door_tiles_7
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 335
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014d3c084b23195f0800000000000000
+      internalID: -751763911958342640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makeshift_room_door_tiles_8
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 335
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f91ed2652949da0800000000000000
+      internalID: -5938961109760237685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makeshift_room_door_tiles_9
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 287
+        width: 78
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bca9a4991a4a000800000000000000
+      internalID: 46339575934274350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makeshift_room_door_tiles_10
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 313
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53f4c8c09bd71900800000000000000
+      internalID: 655233685695820634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makeshift_room_door_tiles_11
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 313
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd7de42473d2d160800000000000000
+      internalID: 7048928862577458615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makeshift_room_door_tiles_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 287
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41f02ab7ac257090800000000000000
+      internalID: -8037468861078900405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makeshift_room_door_tiles_13
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 281
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbbaf66f55af67b0800000000000000
+      internalID: -5228778813185672256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makeshift_room_door_tiles_14
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 281
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ecddd0f521bc5450800000000000000
+      internalID: 6078928373556305126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makeshift_room_door_tiles_15
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 316
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02e4ef3c4023ebb0800000000000000
+      internalID: -4908043657042140660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makeshift_room_door_tiles_16
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 287
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebb6b437a27c5420800000000000000
+      internalID: 2620095145692281835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makeshift_room_door_tiles_17
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 217
+        width: 78
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a589a6d753427070800000000000000
+      internalID: 8102612724135593379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makeshift_room_door_tiles_18
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 95
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f71609aeb2b82290800000000000000
+      internalID: -7914879813154367502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makeshift_room_door_tiles_19
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 223
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a96d6d91baa4420800000000000000
+      internalID: 2615090661108914792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makeshift_room_door_tiles_20
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 223
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e8dd08fc9b15f80800000000000000
+      internalID: -8119504352300921302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makeshift_room_door_tiles_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 223
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954d139c9b9e80030800000000000000
+      internalID: 3461273297787933785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makeshift_room_door_tiles_22
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 159
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3a822641f342a90800000000000000
+      internalID: -7339672135928339464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makeshift_room_door_tiles_23
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 95
+        width: 72
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9243a64bb0723530800000000000000
+      internalID: 3833250182492013211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makeshift_room_door_tiles_24
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 223
+        width: 130
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afef47513e0308530800000000000000
+      internalID: 3855135032904843002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makeshift_room_door_tiles_25
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 188
+        width: 72
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adf73e1bd8ffae40800000000000000
+      internalID: 5670024075871255976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makeshift_room_door_tiles_26
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 201
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b7a2db4ae723d20800000000000000
+      internalID: 3256804726555704156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makeshift_room_door_tiles_27
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 185
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fd45b4a532274c0800000000000000
+      internalID: -4291328624212779250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makeshift_room_door_tiles_28
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 153
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506745821607f3dc0800000000000000
+      internalID: -3657080809810790907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makeshift_room_door_tiles_29
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 127
+        width: 72
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b61ab60a65d40d20800000000000000
+      internalID: 3243952282969708214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makeshift_room_door_tiles_30
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 121
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746a20e75f85c0ff0800000000000000
+      internalID: -68582082913065401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makeshift_room_door_tiles_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 161
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05bcf04fdaf59270800000000000000
+      internalID: 8256781328628626699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makeshift_room_door_tiles_32
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 22
+        width: 162
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff91375de1963e70800000000000000
+      internalID: 9094616946077442039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makeshift_room_door_tiles_33
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 22
+        width: 162
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19ffa08cefc34ee0800000000000000
+      internalID: -1277949254564841189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      makeshift_room_door_tiles_0: -8555808926786019313
+      makeshift_room_door_tiles_1: 6878026368637192369
+      makeshift_room_door_tiles_10: 655233685695820634
+      makeshift_room_door_tiles_11: 7048928862577458615
+      makeshift_room_door_tiles_12: -8037468861078900405
+      makeshift_room_door_tiles_13: -5228778813185672256
+      makeshift_room_door_tiles_14: 6078928373556305126
+      makeshift_room_door_tiles_15: -4908043657042140660
+      makeshift_room_door_tiles_16: 2620095145692281835
+      makeshift_room_door_tiles_17: 8102612724135593379
+      makeshift_room_door_tiles_18: -7914879813154367502
+      makeshift_room_door_tiles_19: 2615090661108914792
+      makeshift_room_door_tiles_2: -1462318082683690082
+      makeshift_room_door_tiles_20: -8119504352300921302
+      makeshift_room_door_tiles_21: 3461273297787933785
+      makeshift_room_door_tiles_22: -7339672135928339464
+      makeshift_room_door_tiles_23: 3833250182492013211
+      makeshift_room_door_tiles_24: 3855135032904843002
+      makeshift_room_door_tiles_25: 5670024075871255976
+      makeshift_room_door_tiles_26: 3256804726555704156
+      makeshift_room_door_tiles_27: -4291328624212779250
+      makeshift_room_door_tiles_28: -3657080809810790907
+      makeshift_room_door_tiles_29: 3243952282969708214
+      makeshift_room_door_tiles_3: 4657344291715994862
+      makeshift_room_door_tiles_30: -68582082913065401
+      makeshift_room_door_tiles_31: 8256781328628626699
+      makeshift_room_door_tiles_32: 9094616946077442039
+      makeshift_room_door_tiles_33: -1277949254564841189
+      makeshift_room_door_tiles_4: -5039507036022472504
+      makeshift_room_door_tiles_5: 1016721273192528229
+      makeshift_room_door_tiles_6: -4125991018935532459
+      makeshift_room_door_tiles_7: -751763911958342640
+      makeshift_room_door_tiles_8: -5938961109760237685
+      makeshift_room_door_tiles_9: 46339575934274350
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

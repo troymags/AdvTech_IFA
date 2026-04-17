@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: 05b44711169b04f03a7da249d49ae85f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1857089776149055591
+    second: messy_room_door_tiles_0
+  - first:
+      213: 5330990614642963583
+    second: messy_room_door_tiles_1
+  - first:
+      213: 539803578100172077
+    second: messy_room_door_tiles_2
+  - first:
+      213: 6495568540976887456
+    second: messy_room_door_tiles_3
+  - first:
+      213: -3136420379359221179
+    second: messy_room_door_tiles_4
+  - first:
+      213: 6777958546992814473
+    second: messy_room_door_tiles_5
+  - first:
+      213: -7643451386684977754
+    second: messy_room_door_tiles_6
+  - first:
+      213: -8251102428967903235
+    second: messy_room_door_tiles_7
+  - first:
+      213: -2274059595739859032
+    second: messy_room_door_tiles_8
+  - first:
+      213: -7387614463442306078
+    second: messy_room_door_tiles_9
+  - first:
+      213: 144967058412692295
+    second: messy_room_door_tiles_10
+  - first:
+      213: -2930760722525806602
+    second: messy_room_door_tiles_11
+  - first:
+      213: -2963424067104835483
+    second: messy_room_door_tiles_12
+  - first:
+      213: 7659207548700623563
+    second: messy_room_door_tiles_13
+  - first:
+      213: 7326162147326249546
+    second: messy_room_door_tiles_14
+  - first:
+      213: 4466729876324910359
+    second: messy_room_door_tiles_15
+  - first:
+      213: 3480531733192374168
+    second: messy_room_door_tiles_16
+  - first:
+      213: 6036751191311339407
+    second: messy_room_door_tiles_17
+  - first:
+      213: -270814951374070481
+    second: messy_room_door_tiles_18
+  - first:
+      213: 4015124557080867299
+    second: messy_room_door_tiles_19
+  - first:
+      213: -4962304476668401584
+    second: messy_room_door_tiles_20
+  - first:
+      213: 3696732589499275861
+    second: messy_room_door_tiles_21
+  - first:
+      213: -7031730410864295062
+    second: messy_room_door_tiles_22
+  - first:
+      213: -7618980180200533336
+    second: messy_room_door_tiles_23
+  - first:
+      213: -4630341229466292183
+    second: messy_room_door_tiles_24
+  - first:
+      213: 1586157380825909681
+    second: messy_room_door_tiles_25
+  - first:
+      213: -114046668078076503
+    second: messy_room_door_tiles_26
+  - first:
+      213: 4639339680870087157
+    second: messy_room_door_tiles_27
+  - first:
+      213: -5128171111045030302
+    second: messy_room_door_tiles_28
+  - first:
+      213: -854131576467072766
+    second: messy_room_door_tiles_29
+  - first:
+      213: 3076517425950017660
+    second: messy_room_door_tiles_30
+  - first:
+      213: 1725932852830856190
+    second: messy_room_door_tiles_31
+  - first:
+      213: -5781678143223659062
+    second: messy_room_door_tiles_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: messy_room_door_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 351
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99730a810ba4a36e0800000000000000
+      internalID: -1857089776149055591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_room_door_tiles_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 351
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f743cbe18bb7bf940800000000000000
+      internalID: 5330990614642963583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_room_door_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 351
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2545298e74cd7700800000000000000
+      internalID: 539803578100172077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_room_door_tiles_3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 351
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6312b4c25e42a50800000000000000
+      internalID: 6495568540976887456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_room_door_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 255
+        width: 34
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a6ffd48423974d0800000000000000
+      internalID: -3136420379359221179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_room_door_tiles_5
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 319
+        width: 66
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98954d72365201e50800000000000000
+      internalID: 6777958546992814473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_room_door_tiles_6
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 316
+        width: 66
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adcca6e5710de590800000000000000
+      internalID: -7643451386684977754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_room_door_tiles_7
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 335
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff510c9e023e7d80800000000000000
+      internalID: -8251102428967903235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_room_door_tiles_8
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 335
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a77bdd98dae070e0800000000000000
+      internalID: -2274059595739859032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_room_door_tiles_9
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 287
+        width: 78
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebbbf869cbe97990800000000000000
+      internalID: -7387614463442306078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_room_door_tiles_10
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 313
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74362d485c6030200800000000000000
+      internalID: 144967058412692295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_room_door_tiles_11
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 313
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff9e2496a8d357d0800000000000000
+      internalID: -2930760722525806602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_room_door_tiles_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 287
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5687f59038dcfd6d0800000000000000
+      internalID: -2963424067104835483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_room_door_tiles_13
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 281
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc28a417fa8fa4a60800000000000000
+      internalID: 7659207548700623563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_room_door_tiles_14
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 281
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a4b4648a1cba560800000000000000
+      internalID: 7326162147326249546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_room_door_tiles_15
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 316
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71588f128230dfd30800000000000000
+      internalID: 4466729876324910359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_room_door_tiles_16
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 287
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897f762bb255d4030800000000000000
+      internalID: 3480531733192374168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_room_door_tiles_17
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 217
+        width: 78
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f47837939d6c350800000000000000
+      internalID: 6036751191311339407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_room_door_tiles_18
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 95
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ddb7f8c3fdd3cf0800000000000000
+      internalID: -270814951374070481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_room_door_tiles_19
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 223
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1b0c9f28698b730800000000000000
+      internalID: 4015124557080867299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_room_door_tiles_20
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 223
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05869d0be5a522bb0800000000000000
+      internalID: -4962304476668401584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_room_door_tiles_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 223
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ad6ba34be6d4330800000000000000
+      internalID: 3696732589499275861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_room_door_tiles_22
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 159
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a634f1072764a6e90800000000000000
+      internalID: -7031730410864295062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_room_door_tiles_23
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 95
+        width: 72
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2d768a4e1f34690800000000000000
+      internalID: -7618980180200533336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_room_door_tiles_24
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 223
+        width: 130
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920f0d43f29bdbfb0800000000000000
+      internalID: -4630341229466292183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_room_door_tiles_25
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 188
+        width: 72
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b90ef9ebb9230610800000000000000
+      internalID: 1586157380825909681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_room_door_tiles_26
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 201
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ada36dd823da6ef0800000000000000
+      internalID: -114046668078076503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_room_door_tiles_27
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 185
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9b2a60cde326040800000000000000
+      internalID: 4639339680870087157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_room_door_tiles_28
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 153
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e9db27b8315d8b0800000000000000
+      internalID: -5128171111045030302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_room_door_tiles_29
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 127
+        width: 72
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2095c394bd38524f0800000000000000
+      internalID: -854131576467072766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_room_door_tiles_30
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 121
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78cc0f7c4cf1ba20800000000000000
+      internalID: 3076517425950017660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_room_door_tiles_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 161
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3e82709ceb3f710800000000000000
+      internalID: 1725932852830856190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_room_door_tiles_32
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 22
+        width: 162
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac583838c5a53cfa0800000000000000
+      internalID: -5781678143223659062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      messy_room_door_tiles_0: -1857089776149055591
+      messy_room_door_tiles_1: 5330990614642963583
+      messy_room_door_tiles_10: 144967058412692295
+      messy_room_door_tiles_11: -2930760722525806602
+      messy_room_door_tiles_12: -2963424067104835483
+      messy_room_door_tiles_13: 7659207548700623563
+      messy_room_door_tiles_14: 7326162147326249546
+      messy_room_door_tiles_15: 4466729876324910359
+      messy_room_door_tiles_16: 3480531733192374168
+      messy_room_door_tiles_17: 6036751191311339407
+      messy_room_door_tiles_18: -270814951374070481
+      messy_room_door_tiles_19: 4015124557080867299
+      messy_room_door_tiles_2: 539803578100172077
+      messy_room_door_tiles_20: -4962304476668401584
+      messy_room_door_tiles_21: 3696732589499275861
+      messy_room_door_tiles_22: -7031730410864295062
+      messy_room_door_tiles_23: -7618980180200533336
+      messy_room_door_tiles_24: -4630341229466292183
+      messy_room_door_tiles_25: 1586157380825909681
+      messy_room_door_tiles_26: -114046668078076503
+      messy_room_door_tiles_27: 4639339680870087157
+      messy_room_door_tiles_28: -5128171111045030302
+      messy_room_door_tiles_29: -854131576467072766
+      messy_room_door_tiles_3: 6495568540976887456
+      messy_room_door_tiles_30: 3076517425950017660
+      messy_room_door_tiles_31: 1725932852830856190
+      messy_room_door_tiles_32: -5781678143223659062
+      messy_room_door_tiles_4: -3136420379359221179
+      messy_room_door_tiles_5: 6777958546992814473
+      messy_room_door_tiles_6: -7643451386684977754
+      messy_room_door_tiles_7: -8251102428967903235
+      messy_room_door_tiles_8: -2274059595739859032
+      messy_room_door_tiles_9: -7387614463442306078
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
