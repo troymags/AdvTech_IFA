@@ -16,7 +16,6 @@ public class Laptop : MonoBehaviour, Interactable
 
     public void Interact()
     {
-        if (!CanInteract()) return;
         PlayLaptop();
     }
 
