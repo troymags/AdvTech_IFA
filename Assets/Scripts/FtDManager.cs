@@ -1,12 +1,14 @@
 using UnityEngine;
 using UnityEngine.UI;
+using Button = UnityEngine.UI.Button;
 
 public class FtDManager : MonoBehaviour
 {
-    [SerializeField]
-    private int duckCount;
-    [SerializeField]
-    private Text text;
+    public int duckCount;
+    public Text text;
+    public Button duckButton;
+    public Sprite duckFluffed;
+
 
     public bool isFluffed;
     public bool isCompleted;
@@ -27,9 +29,11 @@ public class FtDManager : MonoBehaviour
 
         if (duckCount == 50)
         {
-            Debug.Log("Completed!");
             isFluffed = true;
             text.text = "The duck is fluffed! :)";
+            duckButton.interactable = false;
+            duckButton.image.sprite = duckFluffed;
+            Debug.Log("Completed!");
         }
     }
 }
