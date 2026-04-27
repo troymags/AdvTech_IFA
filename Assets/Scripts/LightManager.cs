@@ -25,7 +25,7 @@ public class LightManager : MonoBehaviour
         {
             if (sanityLight.pointLightOuterRadius > 1)
             {
-                sanityLight.pointLightOuterRadius -= 0.002f;
+                sanityLight.pointLightOuterRadius = lightRadius * (sanitySlider.value / sanitySlider.maxValue);
             }
             yield return null;
         }
