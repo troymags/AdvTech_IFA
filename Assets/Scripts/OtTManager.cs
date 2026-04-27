@@ -10,6 +10,7 @@ public class OtTManager : MonoBehaviour
     public List<Button> buttons;
     public List<Button> shuffledButtons;
     int counter = 0;
+    public bool isCompleted;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     public void Start()
     {
