@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 5865109220015454350}
   - component: {fileID: 84393101019053285}
   - component: {fileID: 9136091488109202002}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: DuckCount
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -106,7 +106,7 @@ GameObject:
   - component: {fileID: 4156147007502286164}
   - component: {fileID: 934893982784489221}
   - component: {fileID: 1671000466756754173}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -185,7 +185,7 @@ GameObject:
   - component: {fileID: 1395691689252200058}
   - component: {fileID: 3595298840866083264}
   - component: {fileID: 6916710968344737329}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: mgFluffTheDuck
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -292,7 +292,8 @@ MonoBehaviour:
   duckButton: {fileID: 4070688159158292986}
   duckFluffed: {fileID: -6427694881443902323, guid: 76e4c9a5997b44faa94aa4c544538bf0, type: 3}
   isFluffed: 0
-  isCompleted: 0
+  isFtDCompleted: 0
+  completionDelay: 5
 --- !u!1 &9221821047218499767
 GameObject:
   m_ObjectHideFlags: 0
@@ -305,7 +306,7 @@ GameObject:
   - component: {fileID: 8107299661759419641}
   - component: {fileID: 9204055206143749877}
   - component: {fileID: 4070688159158292986}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Duck
   m_TagString: Untagged
   m_Icon: {fileID: 0}

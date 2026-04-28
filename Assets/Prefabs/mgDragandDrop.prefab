@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 6267074216685170469}
   - component: {fileID: 131989084058281501}
   - component: {fileID: 8904921725127562544}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: HabitatSeal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -86,7 +86,7 @@ GameObject:
   - component: {fileID: 3744857172702215385}
   - component: {fileID: 5951718329665386052}
   - component: {fileID: 8850785713332891329}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: textDTH
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -222,7 +222,7 @@ GameObject:
   - component: {fileID: 560089446484245394}
   - component: {fileID: 8242409984747356326}
   - component: {fileID: 2891434371952177472}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: HabitatElephant
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -299,7 +299,7 @@ GameObject:
   - component: {fileID: 8514451449966312065}
   - component: {fileID: 503558689039832550}
   - component: {fileID: 1337598593872454452}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ToDragElephant
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -379,7 +379,7 @@ MonoBehaviour:
   objectToDragToPos: {fileID: 3400546309458775056}
   dropDistance: 200
   isLocked: 0
-  isCompleted: 0
+  completionDelay: 5
 --- !u!114 &1337598593872454452
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -437,7 +437,8 @@ GameObject:
   - component: {fileID: 4866636231349206150}
   - component: {fileID: 1356676160702358621}
   - component: {fileID: 3782205154066117833}
-  m_Layer: 5
+  - component: {fileID: 5568930273123667145}
+  m_Layer: 0
   m_Name: mgDragandDrop
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -527,6 +528,23 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
+--- !u!114 &5568930273123667145
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5691362158078387429}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1674e171c415343489788f251ff01c7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objectToDrag: {fileID: 0}
+  objectToDragToPos: {fileID: 0}
+  dropDistance: 0
+  isLocked: 0
+  completionDelay: 5
 --- !u!1 &6074113589284976570
 GameObject:
   m_ObjectHideFlags: 0
@@ -540,7 +558,7 @@ GameObject:
   - component: {fileID: 7335114262210298636}
   - component: {fileID: 9110123981903234774}
   - component: {fileID: 4652853400807637177}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ToDragPenguin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -620,7 +638,7 @@ MonoBehaviour:
   objectToDragToPos: {fileID: 8396042188073257975}
   dropDistance: 200
   isLocked: 0
-  isCompleted: 0
+  completionDelay: 5
 --- !u!114 &4652853400807637177
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -679,7 +697,7 @@ GameObject:
   - component: {fileID: 3106786842432195706}
   - component: {fileID: 2456279538712252580}
   - component: {fileID: 4137336561946339941}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: ToDragSeal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -759,7 +777,7 @@ MonoBehaviour:
   objectToDragToPos: {fileID: 213413937754089680}
   dropDistance: 200
   isLocked: 0
-  isCompleted: 0
+  completionDelay: 5
 --- !u!114 &4137336561946339941
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -816,7 +834,7 @@ GameObject:
   - component: {fileID: 6321112211414030514}
   - component: {fileID: 1962850003508728398}
   - component: {fileID: 2987565594702874752}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: HabitatPenguin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -891,7 +909,7 @@ GameObject:
   - component: {fileID: 2760444670046637233}
   - component: {fileID: 3116813995693013276}
   - component: {fileID: 1918772240750046030}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
