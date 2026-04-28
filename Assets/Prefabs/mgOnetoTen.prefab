@@ -1054,6 +1054,7 @@ MonoBehaviour:
   - {fileID: 1857479592334449386}
   - {fileID: 2033083623242741009}
   shuffledButtons: []
+  isCompleted: 0
 --- !u!1 &4253932650291797142
 GameObject:
   m_ObjectHideFlags: 0
