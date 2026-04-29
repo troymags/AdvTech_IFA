@@ -19,7 +19,6 @@ public class SanityManager : MonoBehaviour
     public int fullsanity;
     public int difficulty;
 
-    public Laptop laptop;
     public GameObject gameOverScreen;
     public Button desktopButton;
 
@@ -42,13 +41,6 @@ public class SanityManager : MonoBehaviour
             globalVolume.profile.TryGet(out chroma);
             globalVolume.profile.TryGet(out filmGrain);
         }
-
-        if (gameOverScreen != null)
-        {
-            gameOverScreen.SetActive(false);
-            desktopButton.interactable = false;
-        }
-
         StartCoroutine(LoseSanity());
     }
 
@@ -59,21 +51,23 @@ public class SanityManager : MonoBehaviour
 
     public void GameOver()
     {
-        Destroy(laptop.activeMinigame.gameObject);
         StopCoroutine(LoseSanity());
 
         if (chroma != null) chroma.active = false;
         if (filmGrain != null) filmGrain.active = false;
 
-        if (gameOverScreen != null) gameOverScreen.SetActive(true);
-        if (desktopButton != null) desktopButton.interactable = true;
+        gameOverScreen.SetActive(true);
+        desktopButton.enabled = true;
+        desktopButton.interactable = true;
+       // desktopButton.onClick.AddListener(ExittoDesktop);
 
-        Debug.Log("Game Over");
+        Debug.Log("Game Over2");
     }
 
     public void ExittoDesktop()
     {
         Application.Quit();
+        Debug.Log("Exiting to desktop");
     } 
 
     private void UpdatePostProcessing()
@@ -100,7 +94,7 @@ public class SanityManager : MonoBehaviour
     {
         while (sanitySlider.value >= 0)
         {
-            sanitySlider.value -= 0.5f * difficulty;
+            sanitySlider.value -= 0.25f * difficulty;
 
             if (sanitySlider.value < sanitySlider.maxValue / 2)
             {
@@ -120,13 +114,16 @@ public class SanityManager : MonoBehaviour
                 healthDropTimer = 0f;
             }
 
-            yield return null;
-        }
+            if (healthSlider != null && healthSlider.value <= 0)
+            {
 
-        if (healthSlider == null || healthSlider.value <= 0)
-        {
-            GameOver();
-            Debug.Log("Game Over");
+                GameOver();
+
+                Debug.Log("Game Over 3");
+                yield break;
+            }
+
+            yield return null;
         }
     }
 

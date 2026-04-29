@@ -224,13 +224,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   globalVolume: {fileID: 1840098514}
   healthSlider: {fileID: 1136591080}
-  gameOverScreen: {fileID: 198559877}
-  desktopButton: {fileID: 1867720991}
   fullhealth: 125
   healthDropAmount: 5
   healthDropInterval: 1
   fullsanity: 10000
   difficulty: 2
+  gameOverScreen: {fileID: 198559877}
+  desktopButton: {fileID: 1867720991}
 --- !u!1 &99039083
 GameObject:
   m_ObjectHideFlags: 0
@@ -1374,7 +1374,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &198559878
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4148,6 +4148,7 @@ MonoBehaviour:
   tutorialImage: {fileID: 1964147232}
   sanitySlider: {fileID: 35519493}
   sanityManager: {fileID: 35519494}
+  activeMinigame: {fileID: 1704859904}
 --- !u!1 &1840098513
 GameObject:
   m_ObjectHideFlags: 0
@@ -4255,7 +4256,7 @@ MonoBehaviour:
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
     m_SelectOnRight: {fileID: 0}
-  m_Transition: 0
+  m_Transition: 1
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
@@ -4305,7 +4306,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0}
+  m_Color: {r: 0.3679245, g: 0.3679245, b: 0.3679245, a: 0.24705882}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
