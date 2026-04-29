@@ -8,6 +8,7 @@ public class LightManager : MonoBehaviour
     Light2D sanityLight;
     public int lightRadius;
     public UnityEngine.UI.Slider sanitySlider;
+    public float lightFalloffSpeed = 0.5f;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -25,7 +26,12 @@ public class LightManager : MonoBehaviour
         {
             if (sanityLight.pointLightOuterRadius > 1)
             {
-                sanityLight.pointLightOuterRadius = lightRadius * (sanitySlider.value / sanitySlider.maxValue);
+                float targetRadius = lightRadius * (sanitySlider.value / sanitySlider.maxValue);
+                targetRadius = Mathf.Max(3f, targetRadius);
+                sanityLight.pointLightOuterRadius = Mathf.MoveTowards(
+                    sanityLight.pointLightOuterRadius,
+                    targetRadius,
+                    lightFalloffSpeed * Time.deltaTime);
             }
             yield return null;
         }

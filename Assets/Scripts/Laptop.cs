@@ -1,5 +1,10 @@
+using Microsoft.Unity.VisualStudio.Editor;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.Rendering;
+using UnityEngine.Rendering.Universal;
+using UnityEngine.UI;
+
 
 public class Laptop : MonoBehaviour, Interactable
 {
@@ -9,7 +14,11 @@ public class Laptop : MonoBehaviour, Interactable
     public OtTManager mgOnetoTen;
     public DaDManager mgDragandDrop;
     public FtDManager mgFlufftheDuck;
-    private MonoBehaviour activeMinigame;
+
+    public UnityEngine.UI.Image tutorialImage;
+    public Slider sanitySlider;
+    public SanityManager sanityManager;
+    public MonoBehaviour activeMinigame;
 
     public bool isOn { get; private set; }
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -17,12 +26,15 @@ public class Laptop : MonoBehaviour, Interactable
     {
         
     }
+
     void Update()
     {
         if (activeMinigame is FtDManager ftd && ftd.isFtDCompleted)
         {
             Debug.Log("Fluff the duck completed, starting drag and drop");
             Destroy(activeMinigame.gameObject);
+            AdjustSanity(5000 * sanityManager.difficulty);
+
             activeMinigame = null;
             activeMinigame = Instantiate(mgDragandDrop, Vector3.zero, Quaternion.identity);
 
@@ -32,6 +44,8 @@ public class Laptop : MonoBehaviour, Interactable
         {
             Debug.Log("Drag and drop completed, starting one to ten");
             Destroy(activeMinigame.gameObject);
+            AdjustSanity(5000 * sanityManager.difficulty);
+
             activeMinigame = null;
             activeMinigame = Instantiate(mgOnetoTen, Vector3.zero, Quaternion.identity);
         }
@@ -40,6 +54,8 @@ public class Laptop : MonoBehaviour, Interactable
         {
             Debug.Log("One to ten completed, laptop minigames completed!");
             Destroy(activeMinigame.gameObject);
+            AdjustSanity(5000 * sanityManager.difficulty);
+
             activeMinigame = null;
             playerMovement.enabled = true;
             SetOn(false);
@@ -49,6 +65,14 @@ public class Laptop : MonoBehaviour, Interactable
     public bool CanInteract()
     {
         return !isOn;
+    }
+
+    public void AdjustSanity(float delta)
+    {
+        if (sanitySlider != null)
+        {
+            sanitySlider.value = Mathf.Clamp(sanitySlider.value + delta, sanitySlider.minValue, sanitySlider.maxValue);
+        }
     }
 
     public void Interact()
@@ -66,6 +90,8 @@ public class Laptop : MonoBehaviour, Interactable
             playerMovement = Player.GetComponent<PlayerMovement>();
             playerMovement.enabled = false;
 
+            tutorialImage.enabled = false;
+
             activeMinigame = Instantiate(mgFlufftheDuck, Vector3.zero, Quaternion.identity);
         }
     }
@@ -76,6 +102,12 @@ public class Laptop : MonoBehaviour, Interactable
         if (isOn)
         {
             Debug.Log("Laptop turned on");
+        }
+        else if (!isOn)
+        {
+            playerMovement.enabled = true;
+            sanityManager.difficulty++;
+            Debug.Log("Laptop turned off");
         }
     }
 }

@@ -52,4 +52,5 @@ public class FtDManager : MonoBehaviour
         yield return new WaitForSeconds(completionDelay);
         isFtDCompleted = true;
     }
+
 }
