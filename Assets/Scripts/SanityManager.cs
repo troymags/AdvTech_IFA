@@ -59,7 +59,6 @@ public class SanityManager : MonoBehaviour
         gameOverScreen.SetActive(true);
         desktopButton.enabled = true;
         desktopButton.interactable = true;
-       // desktopButton.onClick.AddListener(ExittoDesktop);
 
         Debug.Log("Game Over2");
     }
