@@ -33,7 +33,7 @@ public class Laptop : MonoBehaviour, Interactable
         {
             Debug.Log("Fluff the duck completed, starting drag and drop");
             Destroy(activeMinigame.gameObject);
-            AdjustSanity(5000 * sanityManager.difficulty);
+            AdjustSanity(2000 * sanityManager.difficulty);
 
             activeMinigame = null;
             activeMinigame = Instantiate(mgDragandDrop, Vector3.zero, Quaternion.identity);
@@ -44,7 +44,7 @@ public class Laptop : MonoBehaviour, Interactable
         {
             Debug.Log("Drag and drop completed, starting one to ten");
             Destroy(activeMinigame.gameObject);
-            AdjustSanity(5000 * sanityManager.difficulty);
+            AdjustSanity(2000 * sanityManager.difficulty);
 
             activeMinigame = null;
             activeMinigame = Instantiate(mgOnetoTen, Vector3.zero, Quaternion.identity);
@@ -54,7 +54,7 @@ public class Laptop : MonoBehaviour, Interactable
         {
             Debug.Log("One to ten completed, laptop minigames completed!");
             Destroy(activeMinigame.gameObject);
-            AdjustSanity(5000 * sanityManager.difficulty);
+            AdjustSanity(2000 * sanityManager.difficulty);
 
             activeMinigame = null;
             playerMovement.enabled = true;
